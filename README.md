@@ -1,1 +1,2 @@
 # Spotify-Song-Valence-Prediction-Using-H2O-AutoML
+This project leverages the H2O AutoML framework to predict the valence of Spotify songs, which measures the musical positivity or emotional content of a track. Valence is a key feature in determining the mood or sentiment conveyed by a song, ranging from negative emotions (sadness, anger) to positive emotions (happiness, excitement). Using a regression model, we aim to accurately predict the valence of songs based on a variety of features such as tempo, energy, danceability, loudness, and others provided by Spotify's API.
